@@ -1,0 +1,14 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "A tutorial on how to do TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Morgan Benton <morgan.benton@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.3.0"
+  }
+}
