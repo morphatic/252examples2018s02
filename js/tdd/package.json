@@ -4,7 +4,7 @@
   "description": "A tutorial on how to do TDD",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --color"
   },
   "author": "Morgan Benton <morgan.benton@gmail.com>",
   "license": "MIT",
