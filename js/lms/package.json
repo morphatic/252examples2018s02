@@ -1,0 +1,14 @@
+{
+  "name": "lms",
+  "version": "1.0.0",
+  "description": "A toy Learning Management System (LMS) to illustrate concepts of OOP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --color"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
