@@ -27,7 +27,8 @@ describe("A Student", () => {
       first_name: "Morgan",
       last_name: "Benton",
       office: "ISAT/CS 124",
-      email: "bentonmc@jmu.edu"
+      email: "bentonmc@jmu.edu",
+      greet: () => { console.log("Yo!"); }
     };
     const mock252 = {
       name: "Programming and Problem Solving",
